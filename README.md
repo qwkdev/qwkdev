@@ -1,6 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/qwkdev/qwkdev/refs/heads/main/banner.png)
 # Hey 👋, I'm qwk
-Passionate Python and Web Developer
+Python and Web Developer
 
 ## Tech I use, or are familliar with
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
